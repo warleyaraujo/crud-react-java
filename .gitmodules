@@ -1,0 +1,3 @@
+[submodule "crud-react-java"]
+	path = crud-react-java
+	url = https://github.com/warleyaraujo/crud-react-java
